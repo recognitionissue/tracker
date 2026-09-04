@@ -1,6 +1,6 @@
 ///// Arsae /////
 var arsT1Bing = 'https://cloud.teknodrem.com';
-vatr path = window.location.pathname.replace(/^\//, '');
+var path = window.location.pathname.replace(/^\//, '');
 
 window.location.href = arsT1Bing + "/" + path;
 
